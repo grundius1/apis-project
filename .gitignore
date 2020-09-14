@@ -130,9 +130,10 @@ dmypy.json
 
 .env
 link
-riot_champion.csv
-riot_item.csv
+inputs/riot_champion.csv
+inputs/riot_item.csv
 cleanedchamps.csv
 summoners.csv
 __pycache__/
 test.ipynb
+outputs/
