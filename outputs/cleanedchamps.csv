@@ -1,0 +1,149 @@
+,key,id,name,partype,title,info.attack,info.defense,stats.attackrange,stats.hp,tags
+0,266,Aatrox,Aatrox,Blood Well,the Darkin Blade,8,4,175,580.0,"['Fighter', 'Tank']"
+1,103,Ahri,Ahri,Mana,the Nine-Tailed Fox,3,4,550,526.0,"['Mage', 'Assassin']"
+2,84,Akali,Akali,Energy,the Rogue Assassin,5,3,125,575.0,['Assassin']
+3,12,Alistar,Alistar,Mana,the Minotaur,6,9,125,600.0,"['Tank', 'Support']"
+4,32,Amumu,Amumu,Mana,the Sad Mummy,2,6,125,613.12,"['Tank', 'Mage']"
+5,34,Anivia,Anivia,Mana,the Cryophoenix,1,4,600,480.0,"['Mage', 'Support']"
+6,1,Annie,Annie,Mana,the Dark Child,2,3,625,524.0,['Mage']
+7,523,Aphelios,Aphelios,Mana,the Weapon of the Faithful,6,2,550,500.0,['Marksman']
+8,22,Ashe,Ashe,Mana,the Frost Archer,7,3,600,539.0,"['Marksman', 'Support']"
+9,136,AurelionSol,Aurelion Sol,Mana,The Star Forger,2,3,550,575.0,['Mage']
+10,268,Azir,Azir,Mana,the Emperor of the Sands,6,3,525,552.0,"['Mage', 'Marksman']"
+11,432,Bard,Bard,Mana,the Wandering Caretaker,4,4,500,575.0,"['Support', 'Mage']"
+12,53,Blitzcrank,Blitzcrank,Mana,the Great Steam Golem,4,8,125,582.6,"['Tank', 'Fighter']"
+13,63,Brand,Brand,Mana,the Burning Vengeance,2,2,550,519.68,['Mage']
+14,201,Braum,Braum,Mana,the Heart of the Freljord,3,9,125,540.0,"['Support', 'Tank']"
+15,51,Caitlyn,Caitlyn,Mana,the Sheriff of Piltover,8,2,650,481.0,['Marksman']
+16,164,Camille,Camille,Mana,the Steel Shadow,8,6,125,575.6,"['Fighter', 'Tank']"
+17,69,Cassiopeia,Cassiopeia,Mana,the Serpent's Embrace,2,3,550,575.0,['Mage']
+18,31,Chogath,Cho'Gath,Mana,the Terror of the Void,3,7,125,574.4,"['Tank', 'Mage']"
+19,42,Corki,Corki,Mana,the Daring Bombardier,8,3,550,518.0,['Marksman']
+20,122,Darius,Darius,Mana,the Hand of Noxus,9,5,175,582.24,"['Fighter', 'Tank']"
+21,131,Diana,Diana,Mana,Scorn of the Moon,7,6,150,594.0,"['Fighter', 'Mage']"
+22,119,Draven,Draven,Mana,the Glorious Executioner,9,3,550,574.0,['Marksman']
+23,36,DrMundo,Dr. Mundo,None,the Madman of Zaun,5,7,125,582.52,"['Fighter', 'Tank']"
+24,245,Ekko,Ekko,Mana,the Boy Who Shattered Time,5,3,125,585.0,"['Assassin', 'Fighter']"
+25,60,Elise,Elise,Mana,the Spider Queen,6,5,550,534.0,"['Mage', 'Fighter']"
+26,28,Evelynn,Evelynn,Mana,Agony's Embrace,4,2,125,572.0,"['Assassin', 'Mage']"
+27,81,Ezreal,Ezreal,Mana,the Prodigal Explorer,7,2,550,500.0,"['Marksman', 'Mage']"
+28,9,Fiddlesticks,Fiddlesticks,Mana,the Harbinger of Doom,2,3,480,524.4,"['Mage', 'Support']"
+29,114,Fiora,Fiora,Mana,the Grand Duelist,10,4,150,550.0,"['Fighter', 'Assassin']"
+30,105,Fizz,Fizz,Mana,the Tidal Trickster,6,4,175,570.0,"['Assassin', 'Fighter']"
+31,3,Galio,Galio,Mana,the Colossus,1,10,150,562.0,"['Tank', 'Mage']"
+32,41,Gangplank,Gangplank,Mana,the Saltwater Scourge,7,6,125,540.0,['Fighter']
+33,86,Garen,Garen,None,The Might of Demacia,7,7,175,620.0,"['Fighter', 'Tank']"
+34,150,Gnar,Gnar,Rage,the Missing Link,6,5,175,510.0,"['Fighter', 'Tank']"
+35,79,Gragas,Gragas,Mana,the Rabble Rouser,4,7,125,600.0,"['Fighter', 'Mage']"
+36,104,Graves,Graves,Mana,the Outlaw,8,5,425,555.0,['Marksman']
+37,120,Hecarim,Hecarim,Mana,the Shadow of War,8,6,175,580.0,"['Fighter', 'Tank']"
+38,74,Heimerdinger,Heimerdinger,Mana,the Revered Inventor,2,6,550,488.0,"['Mage', 'Support']"
+39,420,Illaoi,Illaoi,Mana,the Kraken Priestess,8,6,125,585.6,"['Fighter', 'Tank']"
+40,39,Irelia,Irelia,Mana,the Blade Dancer,7,4,200,580.0,"['Fighter', 'Assassin']"
+41,427,Ivern,Ivern,Mana,the Green Father,3,5,475,585.0,"['Support', 'Mage']"
+42,40,Janna,Janna,Mana,the Storm's Fury,3,5,550,500.0,"['Support', 'Mage']"
+43,59,JarvanIV,Jarvan IV,Mana,the Exemplar of Demacia,6,8,175,570.0,"['Tank', 'Fighter']"
+44,24,Jax,Jax,Mana,Grandmaster at Arms,7,5,125,592.8,"['Fighter', 'Assassin']"
+45,126,Jayce,Jayce,Mana,the Defender of Tomorrow,8,4,125,560.0,"['Fighter', 'Marksman']"
+46,202,Jhin,Jhin,Mana,the Virtuoso,10,2,550,556.0,"['Marksman', 'Mage']"
+47,222,Jinx,Jinx,Mana,the Loose Cannon,9,2,525,581.0,['Marksman']
+48,145,Kaisa,Kai'Sa,Mana,Daughter of the Void,8,5,525,571.0,['Marksman']
+49,429,Kalista,Kalista,Mana,the Spear of Vengeance,8,2,525,534.0,['Marksman']
+50,43,Karma,Karma,Mana,the Enlightened One,1,7,525,534.0,"['Mage', 'Support']"
+51,30,Karthus,Karthus,Mana,the Deathsinger,2,2,450,528.0,['Mage']
+52,38,Kassadin,Kassadin,Mana,the Void Walker,3,5,150,576.0,"['Assassin', 'Mage']"
+53,55,Katarina,Katarina,None,the Sinister Blade,4,3,125,602.0,"['Assassin', 'Mage']"
+54,10,Kayle,Kayle,Mana,the Righteous,6,6,175,600.0,"['Fighter', 'Support']"
+55,141,Kayn,Kayn,Mana,the Shadow Reaper,10,6,175,585.0,"['Fighter', 'Assassin']"
+56,85,Kennen,Kennen,Energy,the Heart of the Tempest,6,4,550,541.0,"['Mage', 'Marksman']"
+57,121,Khazix,Kha'Zix,Mana,the Voidreaver,9,4,125,572.8,['Assassin']
+58,203,Kindred,Kindred,Mana,The Eternal Hunters,8,2,500,540.0,['Marksman']
+59,240,Kled,Kled,Courage,the Cantankerous Cavalier,8,2,125,340.0,"['Fighter', 'Tank']"
+60,96,KogMaw,Kog'Maw,Mana,the Mouth of the Abyss,8,2,500,534.0,"['Marksman', 'Mage']"
+61,7,Leblanc,LeBlanc,Mana,the Deceiver,1,4,525,528.0,"['Assassin', 'Mage']"
+62,64,LeeSin,Lee Sin,Energy,the Blind Monk,8,5,125,575.0,"['Fighter', 'Assassin']"
+63,89,Leona,Leona,Mana,the Radiant Dawn,4,8,125,576.16,"['Tank', 'Support']"
+64,127,Lissandra,Lissandra,Mana,the Ice Witch,2,5,550,550.0,['Mage']
+65,236,Lucian,Lucian,Mana,the Purifier,8,5,500,571.0,['Marksman']
+66,117,Lulu,Lulu,Mana,the Fae Sorceress,4,5,550,525.0,"['Support', 'Mage']"
+67,99,Lux,Lux,Mana,the Lady of Luminosity,2,4,550,490.0,"['Mage', 'Support']"
+68,54,Malphite,Malphite,Mana,Shard of the Monolith,5,9,125,574.2,"['Tank', 'Fighter']"
+69,90,Malzahar,Malzahar,Mana,the Prophet of the Void,2,2,500,537.0,"['Mage', 'Assassin']"
+70,57,Maokai,Maokai,Mana,the Twisted Treant,3,8,125,565.0,"['Tank', 'Mage']"
+71,11,MasterYi,Master Yi,Mana,the Wuju Bladesman,10,4,125,598.56,"['Assassin', 'Fighter']"
+72,21,MissFortune,Miss Fortune,Mana,the Bounty Hunter,8,2,550,541.0,['Marksman']
+73,62,MonkeyKing,Wukong,Mana,the Monkey King,8,5,175,540.0,"['Fighter', 'Tank']"
+74,82,Mordekaiser,Mordekaiser,Shield,the Iron Revenant,4,6,175,575.0,['Fighter']
+75,25,Morgana,Morgana,Mana,the Fallen,1,6,450,560.0,"['Mage', 'Support']"
+76,267,Nami,Nami,Mana,the Tidecaller,4,3,550,489.32,"['Support', 'Mage']"
+77,75,Nasus,Nasus,Mana,the Curator of the Sands,7,5,125,561.2,"['Fighter', 'Tank']"
+78,111,Nautilus,Nautilus,Mana,the Titan of the Depths,4,6,175,576.48,"['Tank', 'Fighter']"
+79,518,Neeko,Neeko,Mana,the Curious Chameleon,1,1,550,540.0,"['Mage', 'Support']"
+80,76,Nidalee,Nidalee,Mana,the Bestial Huntress,5,4,525,545.0,"['Assassin', 'Mage']"
+81,56,Nocturne,Nocturne,Mana,the Eternal Nightmare,9,5,125,585.0,"['Assassin', 'Fighter']"
+82,20,Nunu,Nunu & Willump,Mana,the Boy and His Yeti,4,6,125,570.0,"['Tank', 'Fighter']"
+83,2,Olaf,Olaf,Mana,the Berserker,9,5,125,597.24,"['Fighter', 'Tank']"
+84,61,Orianna,Orianna,Mana,the Lady of Clockwork,4,3,525,530.0,"['Mage', 'Support']"
+85,516,Ornn,Ornn,Mana,The Fire below the Mountain,5,9,175,590.0,"['Tank', 'Fighter']"
+86,80,Pantheon,Pantheon,Mana,the Unbreakable Spear,9,4,175,580.0,"['Fighter', 'Assassin']"
+87,78,Poppy,Poppy,Mana,Keeper of the Hammer,6,7,125,540.0,"['Tank', 'Fighter']"
+88,555,Pyke,Pyke,Mana,the Bloodharbor Ripper,9,3,150,600.0,"['Support', 'Assassin']"
+89,246,Qiyana,Qiyana,Mana,Empress of the Elements,0,2,150,590.0,"['Assassin', 'Fighter']"
+90,133,Quinn,Quinn,Mana,Demacia's Wings,9,4,525,532.8,"['Marksman', 'Assassin']"
+91,497,Rakan,Rakan,Mana,The Charmer,2,4,300,540.0,['Support']
+92,33,Rammus,Rammus,Mana,the Armordillo,4,10,125,564.48,"['Tank', 'Fighter']"
+93,421,RekSai,Rek'Sai,Rage,the Void Burrower,8,5,175,570.0,['Fighter']
+94,58,Renekton,Renekton,Fury,the Butcher of the Sands,8,5,125,575.0,"['Fighter', 'Tank']"
+95,107,Rengar,Rengar,Ferocity,the Pridestalker,7,4,125,585.0,"['Assassin', 'Fighter']"
+96,92,Riven,Riven,None,the Exile,8,5,125,558.48,"['Fighter', 'Assassin']"
+97,68,Rumble,Rumble,Heat,the Mechanized Menace,3,6,125,589.0,"['Fighter', 'Mage']"
+98,13,Ryze,Ryze,Mana,the Rune Mage,2,2,550,570.48,"['Mage', 'Fighter']"
+99,113,Sejuani,Sejuani,Mana,Fury of the North,5,7,150,560.0,"['Tank', 'Fighter']"
+100,235,Senna,Senna,Mana,the Redeemer,7,2,600,520.0,"['Marksman', 'Support']"
+101,875,Sett,Sett,Grit,the Boss,8,5,125,600.0,"['Fighter', 'Tank']"
+102,35,Shaco,Shaco,Mana,the Demon Jester,8,4,125,587.0,['Assassin']
+103,98,Shen,Shen,Energy,the Eye of Twilight,3,9,125,540.0,['Tank']
+104,102,Shyvana,Shyvana,Fury,the Half-Dragon,8,6,125,595.0,"['Fighter', 'Tank']"
+105,27,Singed,Singed,Mana,the Mad Chemist,4,8,125,580.0,"['Tank', 'Fighter']"
+106,14,Sion,Sion,Mana,The Undead Juggernaut,5,9,175,545.0,"['Tank', 'Fighter']"
+107,15,Sivir,Sivir,Mana,the Battle Mistress,9,3,500,532.0,['Marksman']
+108,72,Skarner,Skarner,Mana,the Crystal Vanguard,7,6,125,601.28,"['Fighter', 'Tank']"
+109,37,Sona,Sona,Mana,Maven of the Strings,5,2,550,482.36,"['Support', 'Mage']"
+110,16,Soraka,Soraka,Mana,the Starchild,2,5,550,535.0,"['Support', 'Mage']"
+111,50,Swain,Swain,Mana,the Noxian Grand General,2,6,525,525.0,"['Mage', 'Fighter']"
+112,517,Sylas,Sylas,Mana,the Unshackled,3,4,175,525.0,"['Mage', 'Assassin']"
+113,134,Syndra,Syndra,Mana,the Dark Sovereign,2,3,550,523.0,"['Mage', 'Support']"
+114,223,TahmKench,Tahm Kench,Mana,the River King,3,9,175,600.0,"['Support', 'Tank']"
+115,163,Taliyah,Taliyah,Mana,the Stoneweaver,1,7,525,532.0,"['Mage', 'Support']"
+116,91,Talon,Talon,Mana,the Blade's Shadow,9,3,125,588.0,['Assassin']
+117,44,Taric,Taric,Mana,the Shield of Valoran,4,8,150,575.0,"['Support', 'Fighter']"
+118,17,Teemo,Teemo,Mana,the Swift Scout,5,3,500,528.0,"['Marksman', 'Assassin']"
+119,412,Thresh,Thresh,Mana,the Chain Warden,5,6,450,560.52,"['Support', 'Fighter']"
+120,18,Tristana,Tristana,Mana,the Yordle Gunner,9,3,525,559.0,"['Marksman', 'Assassin']"
+121,48,Trundle,Trundle,Mana,the Troll King,7,6,175,616.28,"['Fighter', 'Tank']"
+122,23,Tryndamere,Tryndamere,Fury,the Barbarian King,10,5,125,625.64,"['Fighter', 'Assassin']"
+123,4,TwistedFate,Twisted Fate,Mana,the Card Master,6,2,525,534.0,['Mage']
+124,29,Twitch,Twitch,Mana,the Plague Rat,9,2,550,582.0,"['Marksman', 'Assassin']"
+125,77,Udyr,Udyr,Mana,the Spirit Walker,8,7,125,593.32,"['Fighter', 'Tank']"
+126,6,Urgot,Urgot,Mana,the Dreadnought,8,5,350,585.0,"['Fighter', 'Tank']"
+127,110,Varus,Varus,Mana,the Arrow of Retribution,7,3,575,500.0,"['Marksman', 'Mage']"
+128,67,Vayne,Vayne,Mana,the Night Hunter,10,1,550,515.0,"['Marksman', 'Assassin']"
+129,45,Veigar,Veigar,Mana,the Tiny Master of Evil,2,2,550,505.0,['Mage']
+130,161,Velkoz,Vel'Koz,Mana,the Eye of the Void,2,2,525,520.0,['Mage']
+131,254,Vi,Vi,Mana,the Piltover Enforcer,8,5,125,585.0,"['Fighter', 'Assassin']"
+132,112,Viktor,Viktor,Mana,the Machine Herald,2,4,525,530.0,['Mage']
+133,8,Vladimir,Vladimir,Crimson Rush,the Crimson Reaper,2,6,450,537.0,['Mage']
+134,106,Volibear,Volibear,Mana,the Thunder's Roar,7,7,125,584.48,"['Fighter', 'Tank']"
+135,19,Warwick,Warwick,Mana,the Uncaged Wrath of Zaun,9,5,125,550.0,"['Fighter', 'Tank']"
+136,498,Xayah,Xayah,Mana,the Rebel,10,6,525,561.0,['Marksman']
+137,101,Xerath,Xerath,Mana,the Magus Ascendant,1,3,525,526.0,['Mage']
+138,5,XinZhao,Xin Zhao,Mana,the Seneschal of Demacia,8,6,175,570.0,"['Fighter', 'Assassin']"
+139,157,Yasuo,Yasuo,Flow,the Unforgiven,8,4,175,523.0,"['Fighter', 'Assassin']"
+140,83,Yorick,Yorick,Mana,Shepherd of Souls,6,6,175,580.0,"['Fighter', 'Tank']"
+141,350,Yuumi,Yuumi,Mana,the Magical Cat,5,1,500,480.0,"['Support', 'Mage']"
+142,154,Zac,Zac,None,the Secret Weapon,3,7,175,615.0,"['Tank', 'Fighter']"
+143,238,Zed,Zed,Energy,the Master of Shadows,9,2,125,584.0,['Assassin']
+144,115,Ziggs,Ziggs,Mana,the Hexplosives Expert,2,4,550,536.0,['Mage']
+145,26,Zilean,Zilean,Mana,the Chronokeeper,2,5,550,504.0,"['Support', 'Mage']"
+146,142,Zoe,Zoe,Mana,the Aspect of Twilight,1,7,550,560.0,"['Mage', 'Support']"
+147,143,Zyra,Zyra,Mana,Rise of the Thorns,4,3,575,504.0,"['Mage', 'Support']"

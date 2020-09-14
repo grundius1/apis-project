@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.env
+link
+riot_champion.csv
+riot_item.csv
+cleanedchamps.csv
+summoners.csv
+__pycache__/
+test.ipynb
